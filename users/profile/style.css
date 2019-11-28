@@ -1,0 +1,783 @@
+.mediaViewInfo {
+	--web-view-name: profile;
+	--web-view-id: profile;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: profile;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#profile {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(234,234,234,1);
+	overflow: hidden;
+	--web-view-name: profile;
+	--web-view-id: profile;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.Path_1 {
+	filter: drop-shadow(0px 3px 6px rgba(16, 1, 1, 0.902));
+	overflow: visible;
+	position: absolute;
+	width: 386px;
+	height: 1098px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.aa {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 173px;
+	left: 107px;
+	top: 81px;
+}
+#_______________ {
+	position: absolute;
+	left: 121px;
+	top: 260px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.button1 {
+	border-style: solid;
+	border-width: 5px;
+	border-color: rgba(10,181,255,1);
+	background-color: white;
+	color: white;
+	padding: 30px 130px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	filter: drop-shadow(0px 3px 6px rgba(97, 97, 97, 1));
+	position: absolute;
+	overflow: visible;
+	width: 368px;
+	height: 105px;
+	left: 10px;
+	top: 355px;
+}
+.button2 {
+	color: white;
+	padding: 35px 140px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	position: absolute;
+	overflow: visible;
+	width: 368px;
+	height: 105px;
+	left: 10px;
+	top: 460px;
+}
+.button3 {
+	color: white;
+	padding: 35px 140px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	position: absolute;
+	overflow: visible;
+	width: 368px;
+	height: 105px;
+	left: 10px;
+	top: 565px;
+}
+.button4 {
+	color: white;
+	padding: 35px 140px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	position: absolute;
+	overflow: hidden;
+	width: 368px;
+	height: 105px;
+	left: 10px;
+	top: 670px;
+}
+#_____________ {
+	opacity: 0.8;
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	fill: none;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(10,181,255,1);
+}
+#_________ {
+	opacity: 0.8;
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#__________________ {
+	opacity: 0.8;
+	position: absolute;
+	overflow: visible;
+	width: 202px;
+	white-space: nowrap;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#__________ {
+	opacity: 0.8;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#icons8_user_30_A0_Rectangle_11 {
+	opacity: 0.66;
+}
+.icons8_user_30_A0_Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	height: 49px;
+	left: 67px;
+	top: 388px;
+}
+#icons8_exit_26 {
+	opacity: 0.67;
+}
+.icons8_exit_26 {
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	height: 39px;
+	left: 67px;
+	top: 600px;
+}
+.icons8_exit_26_1 {
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	height: 39px;
+	left: 67px;
+	top: 702px;
+}
+#icons8_registration_30 {
+	opacity: 0.66;
+}
+.icons8_registration_30 {
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	height: 47px;
+	left: 67px;
+	top: 486px;
+}
+#icons8_tracking_30 {
+	opacity: 0.66;
+}
+.icons8_tracking_30 {
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	height: 47px;
+	left: 67px;
+	top: 590px;
+}
+#______________ {
+	position: absolute;
+	left: 457px;
+	top: 69px;
+	overflow: hidden;
+	width: 572px;
+	height: 40px;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 55px;
+	color: rgba(0,0,0,1);
+}
+.Line_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
+	overflow: visible;
+	position: absolute;
+	width: 1113px;
+	height: 21px;
+	left: 457.5px;
+	top: 158.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 43px;
+	left: 590px;
+	top: 217px;
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 43px;
+	left: 590px;
+	top: 290px;
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 43px;
+	left: 590px;
+	top: 363px;
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 43px;
+	left: 590px;
+	top: 436px;
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 43px;
+	left: 590px;
+	top: 509px;
+}
+.Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 43px;
+	left: 590px;
+	top: 582px;
+}
+.Rectangle_19 {
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 43px;
+	left: 1188px;
+	top: 217px;
+}
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 43px;
+	left: 1188px;
+	top: 290px;
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 43px;
+	left: 1188px;
+	top: 363px;
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 43px;
+	left: 1188px;
+	top: 436px;
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 43px;
+	left: 1188px;
+	top: 509px;
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 43px;
+	left: 1188px;
+	top: 582px;
+}
+#____ {
+	position: absolute;
+	left: 455px;
+	top: 217px;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#___________________ {
+	opacity: 0.77;
+	position: absolute;
+	left: 625px;
+	top: 222px;
+	overflow: visible;
+	width: 175px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#___________A2_Text_9 {
+	position: absolute;
+	left: 1027px;
+	top: 217px;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#___ {
+	position: absolute;
+	left: 454px;
+	top: 290px;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#_______________________ {
+	opacity: 0.64;
+	position: absolute;
+	left: 617px;
+	top: 295px;
+	overflow: visible;
+	width: 235px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#ID61XXXXXXXX {
+	opacity: 0.78;
+	position: absolute;
+	left: 1223px;
+	top: 222px;
+	overflow: visible;
+	width: 170px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#________ {
+	position: absolute;
+	left: 1022px;
+	top: 290px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#____________________A2_Text_14 {
+	opacity: 0.76;
+	position: absolute;
+	left: 1223px;
+	top: 295px;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#_______________A2_Text_15 {
+	position: absolute;
+	left: 455px;
+	top: 363px;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#ID12_12_2530 {
+	opacity: 0.77;
+	position: absolute;
+	left: 617px;
+	top: 363px;
+	overflow: visible;
+	width: 172px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#_______________A2_Text_17 {
+	position: absolute;
+	left: 1027px;
+	top: 363px;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#______________A2_Text_18 {
+	position: absolute;
+	left: 458px;
+	top: 436px;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#__________A2_Text_19 {
+	position: absolute;
+	left: 1028px;
+	top: 436px;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#__________A2_Text_20 {
+	position: absolute;
+	left: 457px;
+	top: 509px;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#_______ {
+	position: absolute;
+	left: 1025px;
+	top: 509px;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#______________A2_Text_22 {
+	position: absolute;
+	left: 458px;
+	top: 582px;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#_______________A2_Text_23 {
+	position: absolute;
+	left: 1025px;
+	top: 582px;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#________________ {
+	position: absolute;
+	left: 454px;
+	top: 699px;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+.Line_2 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
+	overflow: visible;
+	position: absolute;
+	width: 1113px;
+	height: 21px;
+	left: 455.5px;
+	top: 778.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 43px;
+	left: 617px;
+	top: 853px;
+}
+.Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 43px;
+	left: 617px;
+	top: 926px;
+}
+#_________________A2_Text_25 {
+	position: absolute;
+	left: 452px;
+	top: 853px;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#____________ {
+	position: absolute;
+	left: 452px;
+	top: 926px;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#ID99 {
+	opacity: 0.77;
+	position: absolute;
+	left: 625px;
+	top: 437px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#ID1234567890123 {
+	opacity: 0.77;
+	position: absolute;
+	left: 1223px;
+	top: 369px;
+	overflow: visible;
+	width: 232px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#_____ {
+	opacity: 0.77;
+	position: absolute;
+	left: 1223px;
+	top: 437px;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#______ {
+	opacity: 0.77;
+	position: absolute;
+	left: 623px;
+	top: 510px;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#___________ {
+	opacity: 0.77;
+	position: absolute;
+	left: 1221px;
+	top: 514px;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#ID088_8888888 {
+	opacity: 0.77;
+	position: absolute;
+	left: 617px;
+	top: 583px;
+	overflow: visible;
+	width: 196px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#ID089_9999999 {
+	opacity: 0.77;
+	position: absolute;
+	left: 1223px;
+	top: 582px;
+	overflow: visible;
+	width: 196px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#________________A2_Text_34 {
+	opacity: 0.77;
+	position: absolute;
+	left: 649px;
+	top: 858px;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#___2________________ {
+	opacity: 0.75;
+	position: absolute;
+	left: 649px;
+	top: 930px;
+	overflow: visible;
+	width: 181px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}

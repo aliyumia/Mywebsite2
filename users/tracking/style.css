@@ -1,0 +1,382 @@
+.mediaViewInfo {
+	--web-view-name: tracking;
+	--web-view-id: tracking;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: tracking;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#tracking {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(234,234,234,1);
+	overflow: hidden;
+	--web-view-name: tracking;
+	--web-view-id: tracking;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.Path_1 {
+	filter: drop-shadow(0px 3px 6px rgba(16, 1, 1, 0.902));
+	overflow: visible;
+	position: absolute;
+	width: 386px;
+	height: 1098px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.aa {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 173px;
+	left: 107px;
+	top: 81px;
+}
+#_______________ {
+	position: absolute;
+	left: 121px;
+	top: 260px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.button1 {
+	color: white;
+	padding: 35px 140px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	position: absolute;
+	overflow: visible;
+	width: 368px;
+	height: 105px;
+	left: 10px;
+	top: 355px;
+}
+.button2 {
+	color: white;
+	padding: 35px 140px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	position: absolute;
+	overflow: visible;
+	width: 368px;
+	height: 105px;
+	left: 10px;
+	top: 460px;
+}
+.button3 {
+	border-style: solid;
+	border-width: 5px;
+	border-color: rgba(10,181,255,1);
+	background-color: white;
+	filter: drop-shadow(0px 3px 6px rgba(97, 97, 97, 1));
+	color: white;
+	padding: 28px 130px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	position: absolute;
+	overflow: visible;
+	width: 368px;
+	height: 105px;
+	left: 10px;
+	top: 565px;
+}
+.button4 {
+	color: white;
+	padding: 35px 140px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	position: absolute;
+	overflow: hidden;
+	width: 368px;
+	height: 105px;
+	left: 10px;
+	top: 670px;
+}
+#_____________ {
+	opacity: 0.8;
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#_________ {
+	opacity: 0.8;
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#__________________ {
+	opacity: 0.8;
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(10,181,255,1);
+}
+#__________ {
+	opacity: 0.8;
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#icons8_user_30_A0_Rectangle_11 {
+	opacity: 0.66;
+}
+.icons8_user_30_A0_Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	height: 49px;
+	left: 67px;
+	top: 388px;
+}
+#icons8_exit_26 {
+	opacity: 0.67;
+}
+.icons8_exit_26 {
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	height: 39px;
+	left: 67px;
+	top: 702px;
+}
+#icons8_registration_30 {
+	opacity: 0.66;
+}
+.icons8_registration_30 {
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	height: 47px;
+	left: 67px;
+	top: 486px;
+}
+#icons8_tracking_30 {
+	opacity: 0.66;
+}
+.icons8_tracking_30 {
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	height: 47px;
+	left: 67px;
+	top: 590px;
+}
+#___________________A3_Text_6 {
+	position: absolute;
+	left: 457px;
+	top: 69px;
+	overflow: hidden;
+	width: 572px;
+	height: 40px;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 55px;
+	color: rgba(0,0,0,1);
+}
+.Line_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
+	overflow: visible;
+	position: absolute;
+	width: 1113px;
+	height: 21px;
+	left: 457.5px;
+	top: 158.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_3 {
+	filter: drop-shadow(0px 3px 6px rgba(133, 133, 133, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 25px;
+	height: 786.013px;
+	left: 577.5px;
+	top: 233.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_1 {
+	filter: drop-shadow(0px 3px 6px rgba(97, 97, 97, 1));
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 96px;
+	left: 550px;
+	top: 258px;
+}
+.Ellipse_2 {
+	filter: drop-shadow(0px 3px 6px rgba(97, 97, 97, 1));
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 96px;
+	left: 549px;
+	top: 386px;
+}
+.Ellipse_3 {
+	filter: drop-shadow(0px 3px 6px rgba(97, 97, 97, 1));
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 96px;
+	left: 550px;
+	top: 514px;
+}
+.Ellipse_4 {
+	filter: drop-shadow(0px 3px 6px rgba(97, 97, 97, 1));
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 96px;
+	left: 549px;
+	top: 642px;
+}
+.Ellipse_5 {
+	filter: drop-shadow(0px 3px 6px rgba(97, 97, 97, 1));
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 96px;
+	left: 549px;
+	top: 770px;
+}
+.Ellipse_6 {
+	filter: drop-shadow(0px 3px 6px rgba(97, 97, 97, 1));
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 96px;
+	left: 549px;
+	top: 898px;
+}
+#__________A3_Text_7 {
+	position: absolute;
+	left: 702px;
+	top: 270px;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#________________ {
+	position: absolute;
+	left: 702px;
+	top: 402px;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#_________________A3_Text_9 {
+	position: absolute;
+	left: 702px;
+	top: 534px;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#___________________A3_Text_10 {
+	position: absolute;
+	left: 706px;
+	top: 666px;
+	overflow: visible;
+	width: 164px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#_____ {
+	position: absolute;
+	left: 702px;
+	top: 798px;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#__________A3_Text_12 {
+	position: absolute;
+	left: 706px;
+	top: 930px;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}

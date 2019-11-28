@@ -1,0 +1,788 @@
+.mediaViewInfo {
+	--web-view-name: approve - open;
+	--web-view-id: approve___open;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: approve___open;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#approve___open {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(234,234,234,1);
+	overflow: hidden;
+	--web-view-name: approve - open;
+	--web-view-id: approve___open;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.Path_1 {
+	filter: drop-shadow(0px 3px 6px rgba(16, 1, 1, 0.902));
+	overflow: visible;
+	position: absolute;
+	width: 386px;
+	height: 1098px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID1573018659 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 173px;
+	left: 107px;
+	top: 81px;
+}
+#________ {
+	position: absolute;
+	left: 35px;
+	top: 263px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.button1 {
+	color: white;
+	padding: 35px 140px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	position: absolute;
+	overflow: visible;
+	width: 368px;
+	height: 105px;
+	left: 10px;
+	top: 355px;
+}
+.button2 {
+	color: white;
+	padding: 35px 140px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	position: absolute;
+	overflow: visible;
+	width: 368px;
+	height: 105px;
+	left: 10px;
+	top: 460px;
+}
+#_________A10_Text_2 {
+	opacity: 0.8;
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#__________ {
+	opacity: 0.8;
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#icons8_go_back_30 {
+	opacity: 0.66;
+}
+.icons8_go_back_30 {
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	height: 51px;
+	left: 65px;
+	top: 384px;
+}
+#icons8_exit_26 {
+	opacity: 0.67;
+}
+.icons8_exit_26 {
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	height: 39px;
+	left: 72px;
+	top: 493px;
+}
+#ID61XXXXXXXX__________________ {
+	position: absolute;
+	left: 457px;
+	top: 69px;
+	overflow: hidden;
+	width: 706px;
+	height: 40px;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 55px;
+	color: rgba(0,0,0,1);
+}
+.Line_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
+	overflow: visible;
+	position: absolute;
+	width: 1113px;
+	height: 21px;
+	left: 457.5px;
+	top: 158.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_29 {
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	height: 48px;
+	left: 508px;
+	top: 281px;
+}
+#CS300_A10_Text_13 {
+	position: absolute;
+	left: 533px;
+	top: 291px;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_42 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 48px;
+	left: 508px;
+	top: 346px;
+}
+#CS221_A10_Text_14 {
+	position: absolute;
+	left: 533px;
+	top: 356px;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_43 {
+	position: absolute;
+	overflow: visible;
+	width: 313px;
+	height: 48px;
+	left: 668px;
+	top: 281px;
+}
+#______________________ {
+	position: absolute;
+	left: 702px;
+	top: 289px;
+	overflow: visible;
+	width: 173px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_44 {
+	position: absolute;
+	overflow: visible;
+	width: 313px;
+	height: 48px;
+	left: 668px;
+	top: 346px;
+}
+#_________________ {
+	position: absolute;
+	left: 702px;
+	top: 356px;
+	overflow: visible;
+	width: 190px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_45 {
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	height: 48px;
+	left: 995px;
+	top: 346px;
+}
+.Rectangle_46 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 48px;
+	left: 508px;
+	top: 216px;
+}
+#_________A10_Text_9 {
+	position: absolute;
+	left: 542px;
+	top: 226px;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_47 {
+	position: absolute;
+	overflow: visible;
+	width: 313px;
+	height: 48px;
+	left: 668px;
+	top: 216px;
+}
+#_____________ {
+	position: absolute;
+	left: 704px;
+	top: 224px;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_48 {
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	height: 48px;
+	left: 995px;
+	top: 216px;
+}
+#ID3_33 {
+	position: absolute;
+	left: 1018px;
+	top: 354px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_49 {
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	height: 48px;
+	left: 995px;
+	top: 281px;
+}
+#ID1_33 {
+	position: absolute;
+	left: 1018px;
+	top: 291px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_77 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 48px;
+	left: 508px;
+	top: 281px;
+}
+#CS300_A10_Text_13 {
+	position: absolute;
+	left: 533px;
+	top: 291px;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_78 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 48px;
+	left: 508px;
+	top: 346px;
+}
+#CS221_A10_Text_14 {
+	position: absolute;
+	left: 533px;
+	top: 356px;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_79 {
+	position: absolute;
+	overflow: visible;
+	width: 313px;
+	height: 48px;
+	left: 668px;
+	top: 281px;
+}
+#____setsuna_F_seiei {
+	position: absolute;
+	left: 702px;
+	top: 289px;
+	overflow: visible;
+	width: 217px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_80 {
+	position: absolute;
+	overflow: visible;
+	width: 313px;
+	height: 48px;
+	left: 668px;
+	top: 346px;
+}
+#____lockon_statos {
+	position: absolute;
+	left: 702px;
+	top: 356px;
+	overflow: visible;
+	width: 200px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_81 {
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	height: 48px;
+	left: 995px;
+	top: 346px;
+}
+.Rectangle_82 {
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	height: 48px;
+	left: 995px;
+	top: 281px;
+}
+#_________ {
+	position: absolute;
+	left: 1018px;
+	top: 226px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#XX_XX {
+	position: absolute;
+	left: 1018px;
+	top: 286px;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#XX_XX_A10_Text_19 {
+	position: absolute;
+	left: 1018px;
+	top: 351px;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_83 {
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	height: 48px;
+	left: 508px;
+	top: 411px;
+}
+#CS300_A10_Text_20 {
+	position: absolute;
+	left: 533px;
+	top: 421px;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_84 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 48px;
+	left: 508px;
+	top: 476px;
+}
+#CS221_A10_Text_21 {
+	position: absolute;
+	left: 533px;
+	top: 486px;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_85 {
+	position: absolute;
+	overflow: visible;
+	width: 313px;
+	height: 48px;
+	left: 668px;
+	top: 411px;
+}
+#_______________________A10_Text_22 {
+	position: absolute;
+	left: 702px;
+	top: 419px;
+	overflow: visible;
+	width: 173px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_86 {
+	position: absolute;
+	overflow: visible;
+	width: 313px;
+	height: 48px;
+	left: 668px;
+	top: 476px;
+}
+#__________________A10_Text_23 {
+	position: absolute;
+	left: 702px;
+	top: 486px;
+	overflow: visible;
+	width: 190px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_87 {
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	height: 48px;
+	left: 995px;
+	top: 476px;
+}
+#ID3_33_A10_Text_24 {
+	position: absolute;
+	left: 1018px;
+	top: 484px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_88 {
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	height: 48px;
+	left: 995px;
+	top: 411px;
+}
+#ID1_33_A10_Text_25 {
+	position: absolute;
+	left: 1018px;
+	top: 421px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_89 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 48px;
+	left: 508px;
+	top: 411px;
+}
+#ST326 {
+	position: absolute;
+	left: 533px;
+	top: 421px;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_90 {
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 48px;
+	left: 508px;
+	top: 476px;
+}
+#EL295 {
+	position: absolute;
+	left: 533px;
+	top: 486px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_91 {
+	position: absolute;
+	overflow: visible;
+	width: 313px;
+	height: 48px;
+	left: 668px;
+	top: 411px;
+}
+#____tieria_erda {
+	position: absolute;
+	left: 702px;
+	top: 419px;
+	overflow: visible;
+	width: 164px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_92 {
+	position: absolute;
+	overflow: visible;
+	width: 313px;
+	height: 48px;
+	left: 668px;
+	top: 476px;
+}
+#____log_on_statos {
+	position: absolute;
+	left: 702px;
+	top: 486px;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_93 {
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	height: 48px;
+	left: 995px;
+	top: 476px;
+}
+.Rectangle_94 {
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	height: 48px;
+	left: 995px;
+	top: 411px;
+}
+#XX_XX_A10_Text_30 {
+	position: absolute;
+	left: 1018px;
+	top: 416px;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#XX_XX_A10_Text_31 {
+	position: absolute;
+	left: 1018px;
+	top: 481px;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_95 {
+	position: absolute;
+	overflow: visible;
+	width: 691px;
+	height: 155px;
+	left: 508px;
+	top: 582px;
+}
+.input {
+	outline: none;
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(255,255,255,1);
+	box-shadow: none;
+}
+#___________ {
+	opacity: 0.77;
+	position: absolute;
+	overflow: visible;
+	width: 671px;
+	height: 135px;
+	left: 518px;
+	top: 592px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}

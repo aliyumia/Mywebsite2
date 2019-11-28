@@ -1,0 +1,275 @@
+.mediaViewInfo {
+	--web-view-name: login;
+	--web-view-id: login;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: login;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+} 
+#login {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(235,235,235,1);
+	overflow: hidden;
+	--web-view-name: login;
+	--web-view-id: login;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#banner {
+	position: absolute;
+	width: 1920px;
+	height: 1362px;
+	left: 0px;
+	top: -277px;
+	overflow: visible;
+}
+#Repeat_Grid_1 {
+	position: absolute;
+	width: 1920px;
+	height: 498px;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+#Repeat_Grid_1_0 {
+	position: absolute;
+	width: 2619px;
+	height: 498px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.main_slide {
+	position: absolute;
+	overflow: visible;
+	width: 2619px;
+	height: 498px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_2 {
+	position: absolute;
+	width: 1920px;
+	height: 104px;
+	left: 0px;
+	top: 1258px;
+	overflow: hidden;
+}
+#Repeat_Grid_2_0 {
+	position: absolute;
+	width: 1920px;
+	height: 258px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.main_slide2 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 258px;
+	left: 0px;
+	top: 0px;
+}
+.logo_th {
+	position: absolute;
+	overflow: visible;
+	width: 558px;
+	height: 133px;
+	left: 60px;
+	top: 329px;
+}
+.Rectangle_1 {
+	filter: drop-shadow(0px 3px 6px rgba(97, 97, 97, 0.749));
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 514px;
+	left: 683px;
+	top: 347px;
+}
+#label {
+	position: absolute;
+	width: 368px;
+	height: 173px;
+	left: 777px;
+	top: 499px;
+	overflow: visible;
+}
+.label_id {
+	position: absolute;
+	overflow: visible;
+	width: 368px;
+	height: 77px;
+	left: 0px;
+	top: 0px;
+}
+.label_pwd {
+	position: absolute;
+	overflow: visible;
+	width: 368px;
+	height: 77px;
+	left: 0px;
+	top: 96px;
+}
+#btn {
+	position: absolute;
+	width: 365px;
+	height: 60px;
+	left: 780px;
+	top: 705px;
+	overflow: visible;
+}
+.btn_submit {
+	background-color:rgba(232,91,56,1);
+	color: white;
+	padding: 12px 30px;
+	border-radius: 12px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	filter: drop-shadow(0px 3px 6px rgba(97, 97, 97, 1));
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	height: 60px;
+	left: 231px;
+	top: 0px;
+}
+.btn_changepwd {
+	background-color:rgba(182,182,182,1);
+	color: white;
+	padding: 12px 38px;
+	border-radius: 12px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	filter: drop-shadow(0px 3px 6px rgba(97, 97, 97, 1));
+	position: absolute;
+	overflow: visible;
+	width: 215px;
+	height: 60px;
+	left: 0px;
+	top: 0px;
+}
+#form {
+	position: absolute;
+	width: 415px;
+	height: 341px;
+	left: 765px;
+	top: 413px;
+	overflow: visible;
+}
+input {
+	outline: none;
+	position: absolute;
+	overflow: visible;
+	width: 250px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(112,112,112,1);
+	box-shadow: none;
+}
+#________ {
+	position: absolute;
+	left: 82px;
+	top: 207px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(112,112,112,1);
+}
+#_______________ {
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(13,13,13,0.729);
+}
+#_____________________________ {
+	position: absolute;
+	left: 82px;
+	top: 111px;
+	overflow: visible;
+	width: 198px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(112,112,112,1);
+}
+#______________________________ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 416px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 56px;
+	color: rgba(112,112,112,1);
+}
+#submit {
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: left;
+	font-family: LilyUPC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#icon {
+	position: absolute;
+	width: 38px;
+	height: 126px;
+	left: 799px;
+	top: 521px;
+	overflow: visible;
+}
+.lock_icon {
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	height: 38px;
+	left: 0px;
+	top: 88px;
+}
+.user_icon {
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	height: 38px;
+	left: 0px;
+	top: 0px;
+}
